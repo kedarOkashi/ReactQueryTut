@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactQueryTut/static/css/main.f855e6bc.css",
+    "main.js": "/ReactQueryTut/static/js/main.a809100a.js",
+    "index.html": "/ReactQueryTut/index.html",
+    "main.f855e6bc.css.map": "/ReactQueryTut/static/css/main.f855e6bc.css.map",
+    "main.a809100a.js.map": "/ReactQueryTut/static/js/main.a809100a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a809100a.js"
+  ]
+}
