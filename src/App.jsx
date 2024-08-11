@@ -6,12 +6,6 @@ import axios from 'axios';
 const POSTS = [
   { id: 1, title: 'POST ONE' },
   { id: 2, title: 'POST TWO' },
-  { id: 3, title: 'POST Three' },
-  { id: 3, title: 'POST Three' },
-  { id: 3, title: 'POST Three' },
-  { id: 3, title: 'POST Three' },
-  { id: 3, title: 'POST Three' },
-  { id: 3, title: 'POST Three' },
 ]
 
 function App() {
